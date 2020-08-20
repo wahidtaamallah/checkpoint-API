@@ -41,7 +41,6 @@ useEffect (() => {
       <li>bs: {item.company.bs}</li>
       </ul>
       </li>
-      <hr/>
       </div>
       ))}
           </ul>
